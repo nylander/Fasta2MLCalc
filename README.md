@@ -20,3 +20,10 @@ Files:
     matrix.dat -- example output file
 
 
+MLCalc software can be found here:
+
+     http://hydrodictyon.eeb.uconn.edu/people/plewis/downloads/mlcalcz.exe
+
+MLCalc is a Windows software but can be run on Linux by using Wine (http://www.winehq.org/)
+
+
