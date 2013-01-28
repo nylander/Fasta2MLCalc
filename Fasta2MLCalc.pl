@@ -41,7 +41,7 @@ use warnings;
 
                No IUPAC ambiguity symbols or missing data allowed.
 
-               Sequences needs to be of the same length.
+               Sequences need to be of the same length.
 
                Format used for matrix:
 
@@ -55,10 +55,10 @@ use warnings;
                 If warnings are issued due to unrecognized sequence characters,
                 the matrix is then calculated on the non-skipped sites.
 
-                MLCalc can be found here:
+                MLCalc can be found here (01/28/2013 11:54:55 AM):
                 http://hydrodictyon.eeb.uconn.edu/people/plewis/downloads/mlcalcz.exe
 
-                MLCalc can be run on Linux by using Wine (http://www.winehq.org/).
+                MLCalc can be run on Linux (tested on Xubuntu 12.10) using Wine (http://www.winehq.org/).
 
 
 
