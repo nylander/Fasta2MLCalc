@@ -2,6 +2,7 @@
 
 use strict;
 use warnings;
+#use Data::Dumper;
 
 =pod
 
@@ -9,7 +10,7 @@ use warnings;
 
          FILE:  Fasta2MLCalc.pl
 
-        USAGE:  ./Fasta2MLCalc.pl FASTA_file > matrix.dat 
+        USAGE:  ./Fasta2MLCalc.pl input.fas > matrix.dat 
 
   DESCRIPTION:  Read a FASTA alignment with two sequences and print an input matrix for MLCalc
 
