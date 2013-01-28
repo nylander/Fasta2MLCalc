@@ -6,7 +6,7 @@ Create a distance matrix for Paul Lewis's MLCalc program from a fasta-formatted 
 
 Usage:
 
-    ./Fasta2MLCalc.pl FASTA_file > matrix.dat
+    ./Fasta2MLCalc.pl input.fas > matrix.dat
 
     Type 'perldoc Fasta2MLCalc.pl' for details.
 
@@ -24,6 +24,6 @@ MLCalc software can be found here:
 
      http://hydrodictyon.eeb.uconn.edu/people/plewis/downloads/mlcalcz.exe
 
-MLCalc is a Windows software but can be run on Linux by using Wine (http://www.winehq.org/)
+Note: MLCalc is a Windows software but can be run on Linux by using Wine (http://www.winehq.org/)
 
 
