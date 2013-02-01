@@ -66,7 +66,7 @@ use warnings;
       COMPANY: BILS
       VERSION: 1.0
       CREATED: 01/23/2013 12:35:56 AM
-     REVISION: ---
+     REVISION: 02/01/2013 04:08:59 PM
 
 =cut
 
@@ -78,22 +78,10 @@ my @seqA = ();
 my @seqB = ();
 my @seq_array = (); 
 my %count_hash = (
-    'AA' => 0,
-    'AC' => 0,
-    'AG' => 0,
-    'AT' => 0,
-    'CA' => 0,
-    'CC' => 0,
-    'CG' => 0,
-    'CT' => 0,
-    'GA' => 0,
-    'GC' => 0,
-    'GG' => 0,
-    'GT' => 0,
-    'TA' => 0,
-    'TC' => 0,
-    'TG' => 0,
-    'TT' => 0,
+    'AA' => 0, 'AC' => 0, 'AG' => 0, 'AT' => 0,
+    'CA' => 0, 'CC' => 0, 'CG' => 0, 'CT' => 0,
+    'GA' => 0, 'GC' => 0, 'GG' => 0, 'GT' => 0,
+    'TA' => 0, 'TC' => 0, 'TG' => 0, 'TT' => 0,
 );
 
 ## Check arags
