@@ -66,7 +66,7 @@ use warnings;
       COMPANY: BILS
       VERSION: 1.0
       CREATED: 01/23/2013 12:35:56 AM
-     REVISION: 02/01/2013 04:08:59 PM
+     REVISION: 02/06/2013 12:20:21 PM
 
 =cut
 
@@ -101,6 +101,7 @@ while (<$IN>) {
     s/^(.*)\n//;
     my @rec = split /\|/, $header_info;
     s/\n//mg;
+    $_ = uc($_);
     push @rec, $_;
     push @seq_array, \@rec;
 }
