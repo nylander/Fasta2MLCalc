@@ -20,9 +20,9 @@ Files:
     matrix.dat -- example output file
 
 
-MLCalc software can be found here (01/28/2013 11:54:55 AM):
+MLCalc software can be found here (02/24/2015 03:02:37 PM):
 
-     http://hydrodictyon.eeb.uconn.edu/people/plewis/downloads/mlcalcz.exe
+     http://www.eeb.uconn.edu/people/plewis/downloads/mlcalc.zip
 
 Note: MLCalc is a Windows software but can be run on Linux (tested on Xubuntu 12.10) by using Wine (http://www.winehq.org/)
 

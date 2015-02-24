@@ -55,8 +55,8 @@ use warnings;
                 If warnings are issued due to unrecognized sequence characters,
                 the matrix is then calculated on the non-skipped sites.
 
-                MLCalc can be found here (01/28/2013 11:54:55 AM):
-                http://hydrodictyon.eeb.uconn.edu/people/plewis/downloads/mlcalcz.exe
+                MLCalc can be found here (02/24/2015 03:03:51 PM):
+                http://www.eeb.uconn.edu/people/plewis/downloads/mlcalc.zip
 
                 MLCalc can be run on Linux (tested on Xubuntu 12.10) using Wine (http://www.winehq.org/).
 
@@ -66,7 +66,7 @@ use warnings;
       COMPANY: BILS
       VERSION: 1.0
       CREATED: 01/23/2013 12:35:56 AM
-     REVISION: 02/06/2013 12:20:21 PM
+     REVISION: 02/24/2015 03:04:06 PM
 
 =cut
 
